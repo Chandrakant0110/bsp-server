@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+fastapi
+uvicorn
+pickle5
+pydantic
+requests
+pyngrok
+nest-asyncio
+openpyxl
